@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on some python projects
   - analyze the list of calls in germany (Rufzeichenliste der Bundesnetzagentur)
-  - Signal-Bot for creating a survey (python-signal-bot that creates a html file)
+  - a scipt to control moving lights with ArtNet and a GUI
 - 🤔 I’m looking for help with
   - some C++
   - improving my code (as soon as I upload any repositories feel free to correct/optimize the code if you have some time and no hobbies :P)
