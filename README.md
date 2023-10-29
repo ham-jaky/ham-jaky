@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on some python projects
   - analyze the list of calls in germany (Rufzeichenliste der Bundesnetzagentur)
-  - a scipt to control moving lights with ArtNet and a GUI
+  - a scipt to control moving lights with ArtNet and a GUI ([ham-jaky/moving-lights-gui](https://github.com/ham-jaky/moving-lights-gui))
 - 🤔 I’m looking for help with
   - some C++
   - improving my code (as soon as I upload any repositories feel free to correct/optimize the code if you have some time and no hobbies :P)
