@@ -1,34 +1,24 @@
-### Hi there 👋
+# _Moin 👋_
 
-## Github default information
+My Name ist Jakob and I am currently studying at the University in Bremen.
 
-- 🔭 I’m currently working on some python projects
-  - analyze the list of calls in germany (Rufzeichenliste der Bundesnetzagentur)
-  - a scipt to control moving lights with ArtNet and a GUI ([ham-jaky/moving-lights-gui](https://github.com/ham-jaky/moving-lights-gui))
+If you have questions on any of the Repositories feel free to reach out. (contact information below)
+Most of them are an unstable version feel free to use snippets of my code (in compliance with the license).
+
+- 🔭 I’m currently working on
+  - projects for the university.
+  - small side projects that I was initially convinced would be super easy and simplify my everyday life (like every nerd I guess)
+- 🌱 My hobbies are
+  - Amateur radio (call sign: DK5YM)
+  - Cycling
+  - [Nerdsniping](https://xkcd.com/356/) myself and others
+  - and of course everything that has to do with computers
+- 💬 Ask me about my projects
 - 🤔 I’m looking for help with
-  - some C++
-  - improving my code (as soon as I upload any repositories feel free to correct/optimize the code if you have some time and no hobbies :P)
-- 💬 Ask me about anything you like. If you get a good answer is the better question.
+  - Finding the best shortcuts for my i3-config
 - 📫 How to reach me:
-  - Matrix: @r3b2f:darc.de
-  - Twitter: @DK5YM
-  - Briar: briar://abluhw2xktsib3lp5yrqizu2iog3msqffd3i5irpkpyrapyi2lnaa (prob. not the best Idea cause I'm often logged out)
-  - Threema: ask me
+  - Matrix: @jriecker:stugen.de
+  - Threema: ask me via one of the others
   - Mail: dk5ym at darc.de
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I did my ham exam (CEPT-Novice) with an age of 16 years. (And my HAREC with 17!)
-
-<!--
-**ham-jaky/ham-jaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I did my ham exam (CEPT-Novice) with an age of 16 years. (And my HAREC with 17)
